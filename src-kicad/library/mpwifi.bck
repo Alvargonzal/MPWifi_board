@@ -1,0 +1,32 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ESP8266-12E
+D WIFI module ESP8266
+K wifi
+$ENDCMP
+#
+$CMP MCP1703T-3302E/CB
+D MCP1754ST, Fixed 150mA Low Dropout Voltage Regulator, Positive
+K REGULATOR LDO
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20002276C.pdf
+$ENDCMP
+#
+$CMP MCP1754ST-1802E/MB
+D MCP1703T-3302E/CB
+K REGULATOR LDO
+F http://www.mouser.com/ds/2/268/22049a-51817.pdf
+$ENDCMP
+#
+$CMP MCP1754ST-3302E/MB
+D MCP1754ST, Fixed 150mA Low Dropout Voltage Regulator, Positive
+K REGULATOR LDO
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20002276C.pdf
+$ENDCMP
+#
+$CMP Micro_SD_Card
+D Micro SD Card Reader
+K CONN SD
+F http://portal.fciconnect.com/Comergent//fci/drawing/10067847.pdf
+$ENDCMP
+#
+#End Doc Library
