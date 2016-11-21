@@ -40,9 +40,9 @@ Title "MPWifi"
 Date "2016-11-15"
 Rev "v1.0"
 Comp "M Prime"
-Comment1 ""
-Comment2 ""
-Comment3 ""
+Comment1 "Author: Enrique Gómez Rodríguez"
+Comment2 "Idea: Diego Trapero Moreno"
+Comment3 "License: "
 Comment4 ""
 $EndDescr
 $Comp
