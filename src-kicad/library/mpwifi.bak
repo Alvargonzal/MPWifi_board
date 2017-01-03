@@ -89,7 +89,7 @@ F1 "Micro_SD_Card" 600 -550 50 H V C CNN
 F2 "10067847-001" 200 350 50 H I C CNN
 F3 "" 0 0 50 H V C CNN
 $FPLIST
- Memory-card-slot
+ MicroSD-slot
 $ENDFPLIST
 DRAW
 S -350 -375 -250 -425 0 1 0 F
